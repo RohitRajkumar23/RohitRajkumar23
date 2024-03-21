@@ -5,7 +5,7 @@ A curious security architect and engineer. Solving security and resiliency probl
 1. Zero Trust Secutity
 2. Cloud Security
 3. Artificial Intelligence
-4. Adversary Emulation 
+4. Adversary Emulation and Detection 
 
 Here to share my learnings. 
 
